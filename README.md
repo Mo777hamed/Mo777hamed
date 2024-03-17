@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo777hamed" alt="mo777hamed" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+- 🔭 I’m currently working on **Machine/Deep Learning Projects**
 
 - 🌱 I’m currently learning **AWS DevOps**
 
